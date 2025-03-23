@@ -1,0 +1,18 @@
+.oddp {
+    background-color: rgb(230, 128, 143);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-class {
+    font-size: 24px;
+}
+
+#blue-txt {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-back {
+    background-color: green;
+    font-weight: bold;
+}
